@@ -10,7 +10,6 @@ of problems (3-4), you will read in data from a file using
 [pandas](https://pandas.pydata.org) and create
 geometries based on coordinate information in the input data. 
 
-- **Exercise 1 is due by Thursday, 7 November 2024, end of day**.
 
 - Don’t forget to check out the [hints for this week’s
   exercise](https://autogis-site.readthedocs.io/en/latest/lessons/lesson-1/exercise-1.html#hints)
